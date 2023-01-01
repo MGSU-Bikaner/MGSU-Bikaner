@@ -1,11 +1,9 @@
-#MGSU Bikaner 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=pal-sandeep&data=followers,repositories,stars,commits)](https://github.com/pal-sandeep)
-
+#MGSU Bikaner
 ## Stargazers 💚 
 
-[![Stargazers repo roster for @pal-sandeep/learning-C-CPP](https://reporoster.com/stars/pal-sandeep/learning-C-CPP)](https://github.com/pal-sandeep/learning-C-CPP/stargazers)
+[![Stargazers repo roster for @pal-sandeep/learning-C-CPP](https://reporoster.com/stars/pal-sandeep/learning-C-CPP)](https://github.com/MGSU-Bikaner/MGSU-Bikaner/stargazers)
 
 ## :rocket: Want to contribute?
 
-[![Forkers repo roster for @pal-sandeep/learning-C-CPP](https://reporoster.com/forks/pal-sandeep/learning-C-CPP)](https://github.com/pal-sandeep/learning-C-CPP/network/members)
+[![Forkers repo roster for @pal-sandeep/learning-C-CPP](https://reporoster.com/forks/pal-sandeep/learning-C-CPP)](https://github.com/MGSU-Bikaner/MGSU-Bikaner/network/members)
 
